@@ -1,1 +1,10 @@
-{ "recommendations": ["expo.vscode-expo-tools"] }
+{
+    "recommendations": [
+        "expo.vscode-expo-tools",
+        "christian-kohler.npm-intellisense",
+        "abusaidm.html-snippets",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "formulahendry.auto-close-tag",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
