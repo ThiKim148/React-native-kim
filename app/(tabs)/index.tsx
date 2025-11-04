@@ -14,7 +14,6 @@ import LayoutProduct from '@/components/LayoutProduct';
 import GridLayoutMap from '@/components/GridLayoutMap';
 import ProductGrid from '@/components/ProductGrid';
 import ProductFlatList from '@/components/ProductFlatList';
-import Vidu from '@/components/vidu';
 import BTMang from '@/components/BTMang';
 import BTMang1 from '@/components/BTMang1';
 import Danhba from '@/components/Danhba';
